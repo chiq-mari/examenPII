@@ -94,7 +94,7 @@ int main(){
     cout<<"El numero de personas con genero female is: "<<female<<". Su porcentaje es "<<(female/1000.0)*100.0<<"%."<<endl;
     cout<<"El numero de personas con genero male is: "<<male<<". Su porcentaje es "<<(male/1000.0)*100.0<<"%."<<endl;
     cout<<"El numero de personas con genero transgender is: "<<transgender<<". Su porcentaje es "<<(transgender/1000.0)*100.0<<"%."<<endl;
-    cout<<"El numero de personas con genero agender is: "<<agender<<".Su porcentaje es "<<(agender/1000.0)*100.0<<"%."<<endl;
+    cout<<"El numero de personas con genero agender is: "<<agender<<". Su porcentaje es "<<(agender/1000.0)*100.0<<"%."<<endl;
     cout<<"El numero de personas con genero nonbinary is: "<<nonbinary<<". Su porcentaje es "<<(nonbinary/1000.0)*100.0<<"%."<<endl;
 
     /*Inciso 2

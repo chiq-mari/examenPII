@@ -28,6 +28,8 @@ int main(){
     }
 
     noDigit.close();
+    inputSecondE.close();
+    
     /*Inciso 2
     Que separe en dos archivos las palabras una en vocal y la otra en
     consonante*/
